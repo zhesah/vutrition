@@ -1,0 +1,7 @@
+#Sat Dec 03 14:39:17 PST 2016
+base.0=/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dcadd5a98bd8e291a41741296827ec2fd71a910e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d861c2fa02d7d0632b5891b5ae60d0ec07d25b2/classes.dex
+base.1=/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d861c2fa02d7d0632b5891b5ae60d0ec07d25b2
+file.0=/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dcadd5a98bd8e291a41741296827ec2fd71a910e/classes.dex

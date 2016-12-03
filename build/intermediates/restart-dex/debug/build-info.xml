@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="108594822013778"
+    token="-926116175868529517" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="108489539362251"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="108578351723955"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="108594822013778" />
+
+</instant-run>

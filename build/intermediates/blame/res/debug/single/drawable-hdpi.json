@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sugars_welchs.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sugars_welchs.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/saturatedfat_nv.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/saturatedfat_nv.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sodium_luna.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sodium_luna.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/saturatedfat_welchs.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/saturatedfat_welchs.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sugars_luna.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sugars_luna.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sugars_nv.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sugars_nv.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sodium_welchs.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sodium_welchs.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/sodium_nv.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/sodium_nv.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/calories_welchs.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/calories_welchs.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/calories_nv.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/calories_nv.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/saturatedfat_luna.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/saturatedfat_luna.png"
+    },
+    {
+        "merged": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-hdpi/calories_luna.png",
+        "source": "/Users/Jeremy/Downloads/android-vision-master/visionSamples/ocr-reader/app/src/main/res/drawable-hdpi/calories_luna.png"
+    }
+]
